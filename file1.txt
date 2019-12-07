@@ -2,3 +2,5 @@ the first version of code - 1
 User 2
 I am doing some changes for file2 assuming that some other developer migh t 
 also be doning changes to the same file
+
+making some changes in the branch1
