@@ -1,1 +1,3 @@
 the first version of code - 1
+This change is done by user1 without knowing that 
+theere are other users also working on the same file
